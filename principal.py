@@ -1,7 +1,9 @@
 from meu_modulo import *
+
 num1 = int(input("digite um numero:"))
 num2 = int(input("digite outro numero: "))
 
+#Como fazer um tutle
 while True:
     print("digite uma função:" "\n"
           "[1] soma" "\n"
